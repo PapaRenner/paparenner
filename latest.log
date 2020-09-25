@@ -1,0 +1,449 @@
+[25Sep2020 07:16:17.931] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 32.0.108, --fml.mcpVersion, 20200625.160719, --fml.mcVersion, 1.16.1, --fml.forgeGroup, net.minecraftforge, nogui]
+[25Sep2020 07:16:17.935] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 6.1.1+74+master.966c698 starting: java version 1.8.0_265 by Red Hat, Inc
+[25Sep2020 07:16:18.357] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[25Sep2020 07:16:18.401] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8 Source=file:/mnt/minecraftftb/libraries/org/spongepowered/mixin/0.8/mixin-0.8.jar Service=ModLauncher Env=SERVER
+[25Sep2020 07:16:24.051] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [vazkii.botania.common.MixinConnector]
+[25Sep2020 07:16:24.068] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [voronoiaoc.byg.mixin.MixinConnector]
+[25Sep2020 07:16:24.072] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [thelm.jaopca.mixins.JAOPCAMixinConnector]
+[25Sep2020 07:16:24.169] [main/INFO] [voronoiaoc.byg.BYG/]: BYG: Mixin Connected!
+[25Sep2020 07:16:24.184] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
+[25Sep2020 07:16:24.249] [main/WARN] [mixin/]: Reference map 'allthemodium.refmap.json' for allthemodium.mixins.json could not be read. If this is a development environment you can ignore this message
+[25Sep2020 07:16:28.035] [main/INFO] [net.minecraftforge.coremod.CoreMod.immersiveengineering/COREMODLOG]: Inserted block update callback
+[25Sep2020 07:16:28.294] [main/INFO] [net.minecraftforge.coremod.CoreMod.immersiveengineering/COREMODLOG]: Inserted wire collision callback
+[25Sep2020 07:16:30.318] [main/INFO] [net.minecraftforge.coremod.CoreMod.immersiveengineering/COREMODLOG]: Inserted wire collision callback
+[25Sep2020 07:16:31.615] [main/INFO] [net.minecraftforge.coremod.CoreMod.immersiveengineering/COREMODLOG]: Inserted block update callback
+[25Sep2020 07:16:41.496] [main/INFO] [net.minecraftforge.coremod.CoreMod.structure_gel/COREMODLOG]: Transforming LakesFeature...
+[25Sep2020 07:16:51.057] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `debug`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:16:53.156] [main/ERROR] [net.minecraft.util.Util/]: No data fixer registered for clumps:xp_orb_big
+[25Sep2020 07:16:53.747] [main/INFO] [PluginManager/]: Scanning classes for titanium
+[25Sep2020 07:16:53.786] [main/INFO] [PluginManager/]: Found FeaturePluginInstance for class IndustrialForegoingResourcePlugin for plugin resources
+[25Sep2020 07:16:53.787] [main/INFO] [PluginManager/]: Found FeaturePluginInstance for class DefaultResourceRegistryPlugin for plugin resources
+[25Sep2020 07:16:53.909] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `forbidden_arcanus` for name `edelwood_sign`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:16:53.913] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `forbidden_arcanus` for name `edelwood_wall_sign`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:16:53.915] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `forbidden_arcanus` for name `cherrywood_sign`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:16:53.915] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `forbidden_arcanus` for name `cherrywood_wall_sign`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:16:53.916] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `forbidden_arcanus` for name `mysterywood_sign`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:16:53.916] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `forbidden_arcanus` for name `mysterywood_wall_sign`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:16:53.975] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `rats` for name `synesthesia`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:16:53.975] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `rats` for name `plague`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:16:54.259] [modloading-worker-105/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.0.2...
+[25Sep2020 07:16:54.357] [modloading-worker-121/ERROR] [packmenu/]: Running on a dedicated server, disabling mod.
+[25Sep2020 07:16:54.598] [modloading-worker-10/INFO] [wile.rsgauges.ModRsGauges/]: Gauges and Switches GIT id #5d9b247.
+[25Sep2020 07:16:54.600] [modloading-worker-86/ERROR] [me.ichun.mods.ding.common.Ding/]: You are loading Ding on a server. Ding is a client only mod!
+[25Sep2020 07:16:54.903] [modloading-worker-74/INFO] [PluginManager/]: Scanning classes for industrialforegoing
+[25Sep2020 07:16:54.904] [modloading-worker-74/INFO] [PluginManager/]: Found FeaturePluginInstance for class ImmersiveEngineeringPlugin for plugin immersiveengineering
+[25Sep2020 07:16:54.906] [modloading-worker-89/INFO] [PluginManager/]: Scanning classes for portality
+[25Sep2020 07:16:54.917] [modloading-worker-74/INFO] [PluginManager/]: Constructed class ImmersiveEngineeringPlugin for plugin immersiveengineering for mod industrialforegoing
+[25Sep2020 07:16:54.917] [modloading-worker-74/INFO] [PluginManager/]: Executing phase CONSTRUCTION for plugin class ImmersiveEngineeringPlugin
+[25Sep2020 07:16:54.931] [modloading-worker-86/WARN] [ReAuth/]: #########################################
+[25Sep2020 07:16:54.931] [modloading-worker-86/WARN] [ReAuth/]: #      ReAuth was loaded on Server      #
+[25Sep2020 07:16:54.931] [modloading-worker-86/WARN] [ReAuth/]: # Consider removing it to save some RAM #
+[25Sep2020 07:16:54.931] [modloading-worker-86/WARN] [ReAuth/]: #########################################
+[25Sep2020 07:16:54.925] [modloading-worker-20/INFO] [voronoiaoc.byg.BYG/]: Loading config: /mnt/minecraftftb/config/byg-world-common.toml
+[25Sep2020 07:16:54.965] [modloading-worker-63/INFO] [wile.engineerstools.ModEngineersTools/]: Engineer's Tools GIT id #426726c.
+[25Sep2020 07:16:55.057] [modloading-worker-74/INFO] [PluginManager/]: Executing phase PRE_INIT for plugin class ImmersiveEngineeringPlugin
+[25Sep2020 07:16:55.116] [modloading-worker-36/INFO] [wile.engineersdecor.ModEngineersDecor/]: Engineer's Decor GIT id #9fa05b5.
+[25Sep2020 07:16:55.320] [modloading-worker-47/INFO] [JarSignVerifier/]: Mod uteamcore is signed with a valid certificate.
+[25Sep2020 07:16:55.323] [modloading-worker-80/ERROR] [toastcontrol/]: Running on a dedicated server, disabling mod.
+[25Sep2020 07:16:55.380] [modloading-worker-45/INFO] [STDOUT/]: [yalter.mousetweaks.Logger:Log:6]: [Mouse Tweaks] Disabled because not running on the client.
+[25Sep2020 07:16:55.653] [modloading-worker-19/INFO] [JarSignVerifier/]: Mod usefulbackpacks is signed with a valid certificate.
+[25Sep2020 07:16:55.726] [modloading-worker-37/ERROR] [net.minecraft.util.Util/]: No data fixer registered for forbidden_arcanus:chorus_pearl
+[25Sep2020 07:16:55.760] [modloading-worker-75/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 32.0.108, for MC 1.16.1 with MCP 20200625.160719
+[25Sep2020 07:16:55.760] [modloading-worker-75/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v32.0.108 Initialized
+[25Sep2020 07:16:55.764] [modloading-worker-37/ERROR] [net.minecraft.util.Util/]: No data fixer registered for forbidden_arcanus:seed_bullet
+[25Sep2020 07:16:55.889] [modloading-worker-37/ERROR] [net.minecraft.util.Util/]: No data fixer registered for forbidden_arcanus:energy_ball
+[25Sep2020 07:16:56.258] [modloading-worker-105/INFO] [Dungeon Crawl/]: Registering Structure Piece Types
+[25Sep2020 07:16:56.309] [modloading-worker-60/FATAL] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraftforge/client/event/GuiScreenEvent for invalid dist DEDICATED_SERVER
+[25Sep2020 07:16:56.352] [modloading-worker-80/INFO] [PluginManager/]: Scanning classes for titanium
+[25Sep2020 07:16:56.378] [modloading-worker-37/ERROR] [net.minecraft.util.Util/]: No data fixer registered for forbidden_arcanus:boom_arrow
+[25Sep2020 07:16:56.381] [modloading-worker-37/ERROR] [net.minecraft.util.Util/]: No data fixer registered for forbidden_arcanus:draco_arcanus_arrow
+[25Sep2020 07:16:56.311] [modloading-worker-60/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
+java.lang.RuntimeException: Attempted to load class net/minecraftforge/client/event/GuiScreenEvent for invalid dist DEDICATED_SERVER
+	at net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:71) ~[ftbserver.jar:32.0]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:82) ~[modlauncher-6.1.1.jar:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:118) ~[modlauncher-6.1.1.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader$DelegatedClassLoader.findClass(TransformingClassLoader.java:247) ~[modlauncher-6.1.1.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:134) ~[modlauncher-6.1.1.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:96) ~[modlauncher-6.1.1.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:351) ~[?:1.8.0_265]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.buildEvents(EventSubclassTransformer.java:62) ~[eventbus-3.0.3-service.jar:?]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.transform(EventSubclassTransformer.java:44) ~[eventbus-3.0.3-service.jar:?]
+	at net.minecraftforge.eventbus.EventBusEngine.processClass(EventBusEngine.java:21) ~[eventbus-3.0.3-service.jar:?]
+	at net.minecraftforge.eventbus.service.ModLauncherService.processClassWithFlags(ModLauncherService.java:20) ~[eventbus-3.0.3-service.jar:3.0.3+63+master.b6b4769]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:82) ~[modlauncher-6.1.1.jar:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:118) ~[modlauncher-6.1.1.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader$DelegatedClassLoader.findClass(TransformingClassLoader.java:247) ~[modlauncher-6.1.1.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:134) ~[modlauncher-6.1.1.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:96) ~[modlauncher-6.1.1.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:351) ~[?:1.8.0_265]
+	at java.lang.Class.getDeclaredMethods0(Native Method) ~[?:1.8.0_265]
+	at java.lang.Class.privateGetDeclaredMethods(Class.java:2701) ~[?:1.8.0_265]
+	at java.lang.Class.privateGetPublicMethods(Class.java:2902) ~[?:1.8.0_265]
+	at java.lang.Class.getMethods(Class.java:1615) ~[?:1.8.0_265]
+	at net.minecraftforge.eventbus.EventBus.registerObject(EventBus.java:92) ~[eventbus-3.0.3-service.jar:?]
+	at net.minecraftforge.eventbus.EventBus.register(EventBus.java:120) ~[eventbus-3.0.3-service.jar:?]
+	at mezz.nopotionshift.NoPotionShift.<init>(NoPotionShift.java:11) ~[?:1.5.0]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_265]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[?:1.8.0_265]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:1.8.0_265]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423) ~[?:1.8.0_265]
+	at java.lang.Class.newInstance(Class.java:442) ~[?:1.8.0_265]
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.constructMod(FMLModContainer.java:136) ~[?:32.0]
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer$ErroringConsumer.accept(FMLModContainer.java:190) ~[?:32.0]
+	at net.minecraftforge.fml.ModContainer.transitionState(ModContainer.java:113) ~[?:?]
+	at net.minecraftforge.fml.ModList.lambda$null$11(ModList.java:135) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) [?:1.8.0_265]
+	at java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1384) [?:1.8.0_265]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:482) [?:1.8.0_265]
+	at java.util.stream.ForEachOps$ForEachTask.compute(ForEachOps.java:290) [?:1.8.0_265]
+	at java.util.concurrent.CountedCompleter.exec(CountedCompleter.java:731) [?:1.8.0_265]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289) [?:1.8.0_265]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056) [?:1.8.0_265]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692) [?:1.8.0_265]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:175) [?:1.8.0_265]
+[25Sep2020 07:16:56.478] [modloading-worker-60/FATAL] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraftforge/client/event/GuiScreenEvent for invalid dist DEDICATED_SERVER
+[25Sep2020 07:16:56.530] [modloading-worker-100/WARN] [net.minecraftforge.server.permission.PermissionAPI/]: Replacing net.minecraftforge.server.permission.DefaultPermissionHandler with com.feed_the_beast.mods.ftbranks.impl.PermissionAPIWrapper
+[25Sep2020 07:16:56.494] [modloading-worker-60/ERROR] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Failed to create mod instance. ModID: nopotionshift, class mezz.nopotionshift.NoPotionShift
+java.lang.RuntimeException: Attempted to load class net/minecraftforge/client/event/GuiScreenEvent for invalid dist DEDICATED_SERVER
+	at net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:71) ~[ftbserver.jar:32.0]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:82) ~[modlauncher-6.1.1.jar:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:118) ~[modlauncher-6.1.1.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader$DelegatedClassLoader.findClass(TransformingClassLoader.java:247) ~[modlauncher-6.1.1.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:134) ~[modlauncher-6.1.1.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:96) ~[modlauncher-6.1.1.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:351) ~[?:1.8.0_265]
+	at java.lang.ClassLoader.defineClass1(Native Method) ~[?:1.8.0_265]
+	at java.lang.ClassLoader.defineClass(ClassLoader.java:756) ~[?:1.8.0_265]
+	at java.lang.ClassLoader.defineClass(ClassLoader.java:635) ~[?:1.8.0_265]
+	at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:135) ~[modlauncher-6.1.1.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:96) ~[modlauncher-6.1.1.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:351) ~[?:1.8.0_265]
+	at java.lang.Class.getDeclaredMethods0(Native Method) ~[?:1.8.0_265]
+	at java.lang.Class.privateGetDeclaredMethods(Class.java:2701) ~[?:1.8.0_265]
+	at java.lang.Class.privateGetPublicMethods(Class.java:2902) ~[?:1.8.0_265]
+	at java.lang.Class.getMethods(Class.java:1615) ~[?:1.8.0_265]
+	at net.minecraftforge.eventbus.EventBus.registerObject(EventBus.java:92) ~[eventbus-3.0.3-service.jar:?]
+	at net.minecraftforge.eventbus.EventBus.register(EventBus.java:120) ~[eventbus-3.0.3-service.jar:?]
+	at mezz.nopotionshift.NoPotionShift.<init>(NoPotionShift.java:11) ~[?:1.5.0]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_265]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[?:1.8.0_265]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:1.8.0_265]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423) ~[?:1.8.0_265]
+	at java.lang.Class.newInstance(Class.java:442) ~[?:1.8.0_265]
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.constructMod(FMLModContainer.java:136) ~[?:32.0]
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer$ErroringConsumer.accept(FMLModContainer.java:190) ~[?:32.0]
+	at net.minecraftforge.fml.ModContainer.transitionState(ModContainer.java:113) ~[?:?]
+	at net.minecraftforge.fml.ModList.lambda$null$11(ModList.java:135) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) [?:1.8.0_265]
+	at java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1384) [?:1.8.0_265]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:482) [?:1.8.0_265]
+	at java.util.stream.ForEachOps$ForEachTask.compute(ForEachOps.java:290) [?:1.8.0_265]
+	at java.util.concurrent.CountedCompleter.exec(CountedCompleter.java:731) [?:1.8.0_265]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289) [?:1.8.0_265]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056) [?:1.8.0_265]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692) [?:1.8.0_265]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:175) [?:1.8.0_265]
+[25Sep2020 07:16:56.762] [modloading-worker-37/ERROR] [net.minecraft.util.Util/]: No data fixer registered for forbidden_arcanus:pixie
+[25Sep2020 07:16:56.804] [modloading-worker-52/INFO] [de.melanx.extradisks.ExtraDisks/]: Items registered.
+[25Sep2020 07:16:56.919] [modloading-worker-60/ERROR] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: An error occurred while dispatching event CONSTRUCT to nopotionshift
+[25Sep2020 07:16:56.932] [modloading-worker-90/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `invisibility`, expected `potionsmaster`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:16:56.968] [modloading-worker-90/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `long_invisibility`, expected `potionsmaster`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:16:57.031] [modloading-worker-17/INFO] [de.melanx.aiotbotania.AIOTBotania/]: Items registered.
+[25Sep2020 07:16:56.950] [modloading-worker-60/FATAL] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: EventBus 171 shutting down - future events will not be posted.
+java.lang.Exception: stacktrace
+	at net.minecraftforge.eventbus.EventBus.shutdown(EventBus.java:317) ~[eventbus-3.0.3-service.jar:?]
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.afterEvent(FMLModContainer.java:123) ~[?:32.0]
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer$ErroringConsumer.accept(FMLModContainer.java:190) ~[?:32.0]
+	at net.minecraftforge.fml.ModContainer.transitionState(ModContainer.java:113) ~[?:?]
+	at net.minecraftforge.fml.ModList.lambda$null$11(ModList.java:135) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) [?:1.8.0_265]
+	at java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1384) [?:1.8.0_265]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:482) [?:1.8.0_265]
+	at java.util.stream.ForEachOps$ForEachTask.compute(ForEachOps.java:290) [?:1.8.0_265]
+	at java.util.concurrent.CountedCompleter.exec(CountedCompleter.java:731) [?:1.8.0_265]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289) [?:1.8.0_265]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056) [?:1.8.0_265]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692) [?:1.8.0_265]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:175) [?:1.8.0_265]
+[25Sep2020 07:16:57.054] [modloading-worker-17/INFO] [de.melanx.aiotbotania.AIOTBotania/]: Blocks registered.
+[25Sep2020 07:16:57.057] [modloading-worker-17/INFO] [de.melanx.aiotbotania.AIOTBotania/]: Global loot modifiers registered.
+[25Sep2020 07:16:58.320] [modloading-worker-51/INFO] [Silent Gear/TraitManager]: Registered condition serializer 'silentgear:not'
+[25Sep2020 07:16:58.443] [modloading-worker-80/INFO] [PluginManager/]: Constructed class IndustrialForegoingResourcePlugin for plugin resources for mod titanium
+[25Sep2020 07:16:58.530] [modloading-worker-80/INFO] [PluginManager/]: Constructed class DefaultResourceRegistryPlugin for plugin resources for mod titanium
+[25Sep2020 07:16:58.530] [modloading-worker-80/INFO] [PluginManager/]: Executing phase CONSTRUCTION for plugin class IndustrialForegoingResourcePlugin
+[25Sep2020 07:16:58.575] [modloading-worker-51/INFO] [Silent Gear/TraitManager]: Registered condition serializer 'silentgear:and'
+[25Sep2020 07:16:58.618] [modloading-worker-78/WARN] [environmentalcreepers/]: Invalid entity class name (class not found): 'appeng.entity.EntitySingularity'
+[25Sep2020 07:16:58.619] [modloading-worker-78/WARN] [environmentalcreepers/]: Invalid explosion class name (class not found): 'slimeknights.tconstruct.gadgets.entity.ExplosionEFLN'
+[25Sep2020 07:16:58.729] [modloading-worker-51/INFO] [Silent Gear/TraitManager]: Registered condition serializer 'silentgear:or'
+[25Sep2020 07:16:58.781] [modloading-worker-51/INFO] [Silent Gear/TraitManager]: Registered condition serializer 'silentgear:gear_type'
+[25Sep2020 07:16:59.153] [modloading-worker-51/INFO] [Silent Gear/TraitManager]: Registered condition serializer 'silentgear:material_count'
+[25Sep2020 07:16:59.165] [modloading-worker-51/INFO] [Silent Gear/TraitManager]: Registered condition serializer 'silentgear:material_ratio'
+[25Sep2020 07:16:59.228] [modloading-worker-51/INFO] [Silent Gear/TraitManager]: Registered condition serializer 'silentgear:primary_material'
+[25Sep2020 07:16:59.230] [modloading-worker-51/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:simple_trait'
+[25Sep2020 07:16:59.336] [modloading-worker-51/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:damage_type_trait'
+[25Sep2020 07:16:59.372] [modloading-worker-51/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:durability_trait'
+[25Sep2020 07:16:59.418] [modloading-worker-51/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:enchantment_trait'
+[25Sep2020 07:16:59.446] [modloading-worker-96/ERROR] [net.minecraft.util.Util/]: No data fixer registered for darkutils:ticking_tile
+[25Sep2020 07:16:59.447] [modloading-worker-96/ERROR] [net.minecraft.util.Util/]: No data fixer registered for darkutils:ender_hopper
+[25Sep2020 07:16:59.628] [modloading-worker-51/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:nbt_trait'
+[25Sep2020 07:16:59.807] [modloading-worker-80/INFO] [PluginManager/]: Executing phase CONSTRUCTION for plugin class DefaultResourceRegistryPlugin
+[25Sep2020 07:16:59.898] [modloading-worker-51/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:potion_effect_trait'
+[25Sep2020 07:17:00.504] [modloading-worker-51/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:stat_modifier_trait'
+[25Sep2020 07:17:00.511] [modloading-worker-51/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:attribute_trait'
+[25Sep2020 07:17:00.571] [modloading-worker-74/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `milk_bucket`, expected `industrialforegoing`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:00.781] [modloading-worker-51/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:block_placer'
+[25Sep2020 07:17:00.783] [modloading-worker-51/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:synergy'
+[25Sep2020 07:17:00.784] [modloading-worker-51/INFO] [Silent Gear/TraitManager]: Registered serializer 'managear:mana'
+[25Sep2020 07:17:01.053] [modloading-worker-38/ERROR] [net.minecraft.util.Util/]: No data fixer registered for aquaculture:water_arrow
+[25Sep2020 07:17:01.477] [modloading-worker-38/ERROR] [net.minecraft.util.Util/]: No data fixer registered for aquaculture:box_turtle
+[25Sep2020 07:17:01.479] [modloading-worker-38/ERROR] [net.minecraft.util.Util/]: No data fixer registered for aquaculture:arrau_turtle
+[25Sep2020 07:17:01.648] [modloading-worker-38/ERROR] [net.minecraft.util.Util/]: No data fixer registered for aquaculture:starshell_turtle
+[25Sep2020 07:17:01.648] [modloading-worker-38/ERROR] [net.minecraft.util.Util/]: No data fixer registered for aquaculture:oak_fish_mount
+[25Sep2020 07:17:01.649] [modloading-worker-38/ERROR] [net.minecraft.util.Util/]: No data fixer registered for aquaculture:spruce_fish_mount
+[25Sep2020 07:17:01.649] [modloading-worker-38/ERROR] [net.minecraft.util.Util/]: No data fixer registered for aquaculture:birch_fish_mount
+[25Sep2020 07:17:01.649] [modloading-worker-38/ERROR] [net.minecraft.util.Util/]: No data fixer registered for aquaculture:jungle_fish_mount
+[25Sep2020 07:17:01.649] [modloading-worker-38/ERROR] [net.minecraft.util.Util/]: No data fixer registered for aquaculture:acacia_fish_mount
+[25Sep2020 07:17:01.649] [modloading-worker-38/ERROR] [net.minecraft.util.Util/]: No data fixer registered for aquaculture:dark_oak_fish_mount
+[25Sep2020 07:17:01.874] [modloading-worker-3/INFO] [com.refinedmods.refinedstorage.apiimpl.API/]: Found 1 RS API injection point
+[25Sep2020 07:17:01.892] [modloading-worker-3/INFO] [com.refinedmods.refinedstorage.apiimpl.API/]: Injected RS API in com.refinedmods.refinedstorageaddons.RSAddons RSAPI
+[25Sep2020 07:17:03.242] [modloading-worker-88/ERROR] [net.minecraft.util.Util/]: No data fixer registered for charged_snowball
+[25Sep2020 07:17:03.783] [modloading-worker-58/INFO] [Mystical Agriculture/]: Registered plugin: com.blakebr0.mysticalagriculture.lib.ModCorePlugin
+[25Sep2020 07:17:04.107] [modloading-worker-58/INFO] [Mystical Agriculture/]: Registered plugin: com.blakebr0.mysticalagradditions.lib.ModCorePlugin
+[25Sep2020 07:17:04.856] [modloading-worker-58/INFO] [Mystical Agriculture/]: Registered plugin: com.blakebr0.mysticalcustomization.lib.ModCorePlugin
+[25Sep2020 07:17:05.120] [modloading-worker-124/ERROR] [net.minecraft.util.Util/]: No data fixer registered for rat
+[25Sep2020 07:17:05.149] [modloading-worker-124/ERROR] [net.minecraft.util.Util/]: No data fixer registered for rat_spawner
+[25Sep2020 07:17:05.180] [modloading-worker-124/ERROR] [net.minecraft.util.Util/]: No data fixer registered for pied_piper
+[25Sep2020 07:17:05.302] [modloading-worker-124/ERROR] [net.minecraft.util.Util/]: No data fixer registered for ratlantean_spirit
+[25Sep2020 07:17:05.303] [modloading-worker-124/ERROR] [net.minecraft.util.Util/]: No data fixer registered for ratlantean_spirit_flame
+[25Sep2020 07:17:05.637] [modloading-worker-124/ERROR] [net.minecraft.util.Util/]: No data fixer registered for ratlantean_automaton
+[25Sep2020 07:17:05.638] [modloading-worker-124/ERROR] [net.minecraft.util.Util/]: No data fixer registered for ratlantean_automaton_beam
+[25Sep2020 07:17:05.765] [modloading-worker-124/ERROR] [net.minecraft.util.Util/]: No data fixer registered for feral_ratlantean
+[25Sep2020 07:17:05.921] [modloading-worker-124/ERROR] [net.minecraft.util.Util/]: No data fixer registered for neo_ratlantean
+[25Sep2020 07:17:05.973] [modloading-worker-124/ERROR] [net.minecraft.util.Util/]: No data fixer registered for laser_beam
+[25Sep2020 07:17:05.984] [modloading-worker-124/ERROR] [net.minecraft.util.Util/]: No data fixer registered for laser_portal
+[25Sep2020 07:17:05.993] [modloading-worker-124/ERROR] [net.minecraft.util.Util/]: No data fixer registered for thrown_block
+[25Sep2020 07:17:06.008] [modloading-worker-124/ERROR] [net.minecraft.util.Util/]: No data fixer registered for vial_of_sentience
+[25Sep2020 07:17:06.359] [modloading-worker-124/ERROR] [net.minecraft.util.Util/]: No data fixer registered for pirat_boat
+[25Sep2020 07:17:06.418] [modloading-worker-124/ERROR] [net.minecraft.util.Util/]: No data fixer registered for pirat
+[25Sep2020 07:17:06.418] [modloading-worker-124/ERROR] [net.minecraft.util.Util/]: No data fixer registered for cheese_cannonball
+[25Sep2020 07:17:06.441] [modloading-worker-124/ERROR] [net.minecraft.util.Util/]: No data fixer registered for plague_doctor
+[25Sep2020 07:17:06.442] [modloading-worker-124/ERROR] [net.minecraft.util.Util/]: No data fixer registered for purifying_liquid
+[25Sep2020 07:17:06.460] [modloading-worker-124/ERROR] [net.minecraft.util.Util/]: No data fixer registered for black_death
+[25Sep2020 07:17:06.469] [modloading-worker-124/ERROR] [net.minecraft.util.Util/]: No data fixer registered for plague_cloud
+[25Sep2020 07:17:06.478] [modloading-worker-124/ERROR] [net.minecraft.util.Util/]: No data fixer registered for plague_beast
+[25Sep2020 07:17:06.482] [modloading-worker-124/ERROR] [net.minecraft.util.Util/]: No data fixer registered for plague_shot
+[25Sep2020 07:17:06.482] [modloading-worker-124/ERROR] [net.minecraft.util.Util/]: No data fixer registered for rat_capture_net
+[25Sep2020 07:17:06.483] [modloading-worker-124/ERROR] [net.minecraft.util.Util/]: No data fixer registered for rat_dragon_fire
+[25Sep2020 07:17:06.573] [modloading-worker-124/ERROR] [net.minecraft.util.Util/]: No data fixer registered for rat_arrow
+[25Sep2020 07:17:06.576] [modloading-worker-124/ERROR] [net.minecraft.util.Util/]: No data fixer registered for ghost_pirat
+[25Sep2020 07:17:06.587] [modloading-worker-124/ERROR] [net.minecraft.util.Util/]: No data fixer registered for dutchrat
+[25Sep2020 07:17:06.588] [modloading-worker-124/ERROR] [net.minecraft.util.Util/]: No data fixer registered for dutchrat_sword
+[25Sep2020 07:17:06.590] [modloading-worker-124/ERROR] [net.minecraft.util.Util/]: No data fixer registered for ratfish
+[25Sep2020 07:17:06.699] [modloading-worker-124/ERROR] [net.minecraft.util.Util/]: No data fixer registered for rattling_gun
+[25Sep2020 07:17:06.722] [modloading-worker-124/ERROR] [net.minecraft.util.Util/]: No data fixer registered for rattling_gun_bullet
+[25Sep2020 07:17:06.732] [modloading-worker-124/ERROR] [net.minecraft.util.Util/]: No data fixer registered for ratlantean_ratbot
+[25Sep2020 07:17:06.796] [modloading-worker-124/ERROR] [net.minecraft.util.Util/]: No data fixer registered for rat_mount_golem
+[25Sep2020 07:17:06.800] [modloading-worker-124/ERROR] [net.minecraft.util.Util/]: No data fixer registered for rat_mount_chicken
+[25Sep2020 07:17:06.803] [modloading-worker-124/ERROR] [net.minecraft.util.Util/]: No data fixer registered for rat_mount_beast
+[25Sep2020 07:17:07.120] [modloading-worker-124/ERROR] [net.minecraft.util.Util/]: No data fixer registered for rat_mount_automaton
+[25Sep2020 07:17:07.120] [modloading-worker-124/ERROR] [net.minecraft.util.Util/]: No data fixer registered for rat_king
+[25Sep2020 07:17:07.121] [modloading-worker-124/ERROR] [net.minecraft.util.Util/]: No data fixer registered for rat_shot
+[25Sep2020 07:17:07.306] [modloading-worker-124/ERROR] [net.minecraft.util.Util/]: No data fixer registered for rat_baron
+[25Sep2020 07:17:07.399] [modloading-worker-124/ERROR] [net.minecraft.util.Util/]: No data fixer registered for rat_baron_plane
+[25Sep2020 07:17:07.408] [modloading-worker-124/ERROR] [net.minecraft.util.Util/]: No data fixer registered for rat_mount_biplane
+[25Sep2020 07:17:07.409] [modloading-worker-124/ERROR] [net.minecraft.util.Util/]: No data fixer registered for rat_protector
+[25Sep2020 07:17:07.411] [modloading-worker-124/ERROR] [net.minecraft.util.Util/]: No data fixer registered for ratlantis_arrow
+[25Sep2020 07:17:07.471] [modloading-worker-124/ERROR] [net.minecraft.util.Util/]: No data fixer registered for demon_rat
+[25Sep2020 07:17:07.520] [modloading-worker-124/ERROR] [net.minecraft.util.Util/]: No data fixer registered for rat_mount_strider
+[25Sep2020 07:17:07.551] [modloading-worker-74/INFO] [PluginManager/]: Executing phase INIT for plugin class ImmersiveEngineeringPlugin
+[25Sep2020 07:17:07.875] [modloading-worker-74/INFO] [PluginManager/]: Executing phase POST_INIT for plugin class ImmersiveEngineeringPlugin
+[25Sep2020 07:17:09.467] [modloading-worker-79/ERROR] [net.minecraft.util.Util/]: No data fixer registered for wrapped
+[25Sep2020 07:17:10.461] [modloading-worker-79/ERROR] [net.minecraft.util.Util/]: No data fixer registered for crab
+[25Sep2020 07:17:10.501] [modloading-worker-79/ERROR] [net.minecraft.util.Util/]: No data fixer registered for toretoise
+[25Sep2020 07:17:10.546] [modloading-worker-79/ERROR] [net.minecraft.util.Util/]: No data fixer registered for totem
+[25Sep2020 07:17:10.571] [modloading-worker-79/ERROR] [net.minecraft.util.Util/]: No data fixer registered for pickarang
+[25Sep2020 07:17:10.605] [modloading-worker-79/ERROR] [net.minecraft.util.Util/]: No data fixer registered for chest_passenger
+[25Sep2020 07:17:10.664] [modloading-worker-108/ERROR] [net.minecraft.util.Util/]: No data fixer registered for appliedenergistics2:tiny_tnt_primed
+[25Sep2020 07:17:11.216] [modloading-worker-79/ERROR] [net.minecraft.util.Util/]: No data fixer registered for frog
+[25Sep2020 07:17:11.817] [modloading-worker-79/ERROR] [net.minecraft.util.Util/]: No data fixer registered for glass_frame
+[25Sep2020 07:17:11.818] [modloading-worker-79/ERROR] [net.minecraft.util.Util/]: No data fixer registered for colored_frame
+[25Sep2020 07:17:11.958] [modloading-worker-108/ERROR] [net.minecraft.util.Util/]: No data fixer registered for appliedenergistics2:singularity
+[25Sep2020 07:17:11.961] [modloading-worker-108/ERROR] [net.minecraft.util.Util/]: No data fixer registered for appliedenergistics2:charged_quartz
+[25Sep2020 07:17:12.534] [modloading-worker-79/ERROR] [net.minecraft.util.Util/]: No data fixer registered for foxhound
+[25Sep2020 07:17:12.537] [modloading-worker-79/ERROR] [net.minecraft.util.Util/]: No data fixer registered for gravisand
+[25Sep2020 07:17:12.596] [modloading-worker-108/ERROR] [net.minecraft.util.Util/]: No data fixer registered for appliedenergistics2:growing_crystal
+[25Sep2020 07:17:16.171] [modloading-worker-79/ERROR] [net.minecraft.util.Util/]: No data fixer registered for stoneling
+[25Sep2020 07:17:23.294] [modloading-worker-23/INFO] [KubeJS Startup/]: Loaded script startup:jei.js
+[25Sep2020 07:17:23.295] [modloading-worker-23/INFO] [KubeJS Startup/]: Loaded 1/1 KubeJS startup scripts
+[25Sep2020 07:17:23.325] [main/INFO] [net.minecraftforge.fml.DeferredWorkQueue/LOADING]: Dispatching synchronous work after CONSTRUCT: 6 jobs
+[25Sep2020 07:17:24.107] [main/INFO] [thelm.jaopca.data.DataCollector/]: Found 1650 unique defined tags
+[25Sep2020 07:17:24.340] [main/INFO] [thelm.jaopca.data.DataCollector/]: Found 12251 unique defined recipes
+[25Sep2020 07:17:24.513] [main/INFO] [thelm.jaopca.data.DataCollector/]: Found 6016 unique defined loot tables
+[25Sep2020 07:17:24.692] [main/INFO] [thelm.jaopca.data.DataCollector/]: Found 3772 unique defined advancements
+[25Sep2020 07:17:24.916] [main/INFO] [thelm.jaopca.modules.ModuleHandler/]: Module thelm.jaopca.compat.indreb.IndRebNonIngotModule has missing mod dependencies, skipping
+[25Sep2020 07:17:24.917] [main/INFO] [thelm.jaopca.modules.ModuleHandler/]: Module thelm.jaopca.compat.indreb.IndRebModule has missing mod dependencies, skipping
+[25Sep2020 07:17:24.917] [main/INFO] [thelm.jaopca.modules.ModuleHandler/]: Module thelm.jaopca.compat.crossroads.CrossroadsNonIngotModule has missing mod dependencies, skipping
+[25Sep2020 07:17:24.918] [main/INFO] [thelm.jaopca.modules.ModuleHandler/]: Module thelm.jaopca.compat.crossroads.CrossroadsModule has missing mod dependencies, skipping
+[25Sep2020 07:17:24.918] [main/INFO] [thelm.jaopca.modules.ModuleHandler/]: Module thelm.jaopca.compat.crossroads.CrossroadsCompatModule has missing mod dependencies, skipping
+[25Sep2020 07:17:25.035] [main/INFO] [thelm.jaopca.materials.MaterialHandler/]: Added 84 materials
+[25Sep2020 07:17:25.579] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `storage_blocks.biotite`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.582] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `storage_blocks.biotite`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.582] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `storage_blocks.brick`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.582] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `storage_blocks.brick`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.582] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `storage_blocks.certus_quartz`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.582] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `storage_blocks.certus_quartz`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.582] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `storage_blocks.corrupti`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.582] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `storage_blocks.corrupti`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.583] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `storage_blocks.dragonstone`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.583] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `storage_blocks.dragonstone`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.583] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `storage_blocks.end_crystal_gem`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.583] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `storage_blocks.end_crystal_gem`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.583] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `storage_blocks.flour`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.583] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `storage_blocks.flour`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.583] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `storage_blocks.fluorite`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.583] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `storage_blocks.fluorite`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.583] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `storage_blocks.hop_graphite`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.583] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `storage_blocks.hop_graphite`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.583] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `storage_blocks.lithium`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.583] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `storage_blocks.lithium`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.584] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `storage_blocks.mana`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.584] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `storage_blocks.mana`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.584] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `storage_blocks.mana_diamond`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.584] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `storage_blocks.mana_diamond`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.584] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `storage_blocks.mundabitur`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.584] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `storage_blocks.mundabitur`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.584] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `storage_blocks.nether_brick`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.584] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `storage_blocks.nether_brick`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.584] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `storage_blocks.netherite`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.584] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `storage_blocks.netherite`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.584] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `storage_blocks.obsidian`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.584] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `storage_blocks.obsidian`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.584] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `storage_blocks.prismarine`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.584] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `storage_blocks.prismarine`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.585] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `storage_blocks.refined_iron`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.585] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `storage_blocks.refined_iron`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.585] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `storage_blocks.salt`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.585] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `storage_blocks.salt`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.585] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `storage_blocks.saltpeter`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.585] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `storage_blocks.saltpeter`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.585] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `storage_blocks.sulfur`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.585] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `storage_blocks.sulfur`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.585] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `storage_blocks.unobtainium_allthemodium_alloy`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.585] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `storage_blocks.unobtainium_allthemodium_alloy`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.585] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `storage_blocks.vibranium_allthemodium_alloy`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.586] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `storage_blocks.vibranium_allthemodium_alloy`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.586] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `storage_blocks.vibranium_unobtainium_alloy`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.586] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `storage_blocks.vibranium_unobtainium_alloy`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.586] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `storage_blocks.wood`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.586] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `storage_blocks.wood`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.586] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `dusts.oratchalcum`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.587] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `dusts.tungsten`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.587] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_clumps.allthemodium`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.587] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_clumps.aluminum`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.587] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_clumps.azure_silver`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.587] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_clumps.bismuth`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.588] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_clumps.crimson_iron`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.588] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_clumps.nickel`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.588] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_clumps.oratchalcum`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.588] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_clumps.platinum`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.589] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_clumps.silver`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.589] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_clumps.tungsten`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.620] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_clumps.unobtainium`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.620] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_clumps.vibranium`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.620] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_clumps.zinc`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.621] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_crystals.allthemodium`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.621] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_crystals.aluminum`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.622] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_crystals.azure_silver`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.622] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_crystals.bismuth`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.622] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_crystals.crimson_iron`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.622] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_crystals.nickel`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.622] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_crystals.oratchalcum`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.622] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_crystals.platinum`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.622] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_crystals.silver`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.622] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_crystals.tungsten`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.622] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_crystals.unobtainium`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.622] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_crystals.vibranium`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.623] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_crystals.zinc`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.623] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_dirty_dusts.allthemodium`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.623] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_dirty_dusts.aluminum`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.623] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_dirty_dusts.azure_silver`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.623] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_dirty_dusts.bismuth`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.623] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_dirty_dusts.crimson_iron`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.623] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_dirty_dusts.nickel`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.624] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_dirty_dusts.oratchalcum`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.626] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_dirty_dusts.platinum`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.626] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_dirty_dusts.silver`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.626] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_dirty_dusts.tungsten`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.626] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_dirty_dusts.unobtainium`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.626] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_dirty_dusts.vibranium`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.627] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_dirty_dusts.zinc`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.627] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_shards.allthemodium`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.627] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_shards.aluminum`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.627] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_shards.azure_silver`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.628] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_shards.bismuth`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.628] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_shards.crimson_iron`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.628] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_shards.nickel`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.630] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_shards.oratchalcum`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.630] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_shards.platinum`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.638] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_shards.silver`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.641] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_shards.tungsten`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.641] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_shards.unobtainium`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.642] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_shards.vibranium`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.648] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_shards.zinc`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.648] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `silents_mechanisms_chunks.allthemodium`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.649] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `silents_mechanisms_chunks.oratchalcum`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.649] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `silents_mechanisms_chunks.osmium`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.649] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `silents_mechanisms_chunks.tungsten`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.649] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `silents_mechanisms_chunks.unobtainium`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.649] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `silents_mechanisms_chunks.vibranium`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.652] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_clean.allthemodium`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.653] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_clean.aluminum`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.653] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_clean.azure_silver`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.653] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_clean.bismuth`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.654] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_clean.crimson_iron`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.654] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_clean.nickel`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.654] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_clean.oratchalcum`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.654] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_clean.platinum`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.654] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_clean.silver`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.654] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_clean.tungsten`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.655] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_clean.unobtainium`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.655] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_clean.vibranium`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.655] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_clean.zinc`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.655] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_dirty.allthemodium`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.655] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_dirty.aluminum`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.655] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_dirty.azure_silver`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.655] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_dirty.bismuth`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.655] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_dirty.crimson_iron`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.655] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_dirty.nickel`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.656] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_dirty.oratchalcum`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.656] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_dirty.platinum`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.656] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_dirty.silver`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.656] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_dirty.tungsten`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.656] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_dirty.unobtainium`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.656] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_dirty.vibranium`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.656] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `jaopca` for name `mekanism_dirty.zinc`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[25Sep2020 07:17:25.658] [main/WARN] [net.minecraftforge.fml.DeferredWorkQueue/LOADING]: Mod 'jaopca' took 2.304 s to run a deferred task.
+[25Sep2020 07:17:25.664] [main/INFO] [net.minecraftforge.fml.DeferredWorkQueue/LOADING]: Synchronous work queue completed in 00:00:02.335
+[25Sep2020 07:17:25.665] [main/FATAL] [net.minecraftforge.fml.ModLoader/LOADING]: Failed to complete lifecycle event CONSTRUCT, 1 errors found
+[25Sep2020 07:17:25.665] [main/FATAL] [net.minecraft.server.Main/]: Failed to start the minecraft server
+net.minecraftforge.fml.LoadingFailedException: Loading errors encountered: [
+	No Potion Shift (nopotionshift) has failed to load correctly
+§7Attempted to load class net/minecraftforge/client/event/GuiScreenEvent for invalid dist DEDICATED_SERVER
+]
+	at net.minecraftforge.fml.ModLoader.dispatchAndHandleError(ModLoader.java:218) ~[?:?]
+	at net.minecraftforge.fml.ModLoader.gatherAndInitializeMods(ModLoader.java:200) ~[?:?]
+	at net.minecraftforge.fml.server.ServerModLoader.load(ServerModLoader.java:49) ~[?:?]
+	at net.minecraft.server.Main.main(Main.java:95) ~[?:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_265]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_265]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_265]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_265]
+	at net.minecraftforge.fml.loading.FMLServerLaunchProvider.lambda$launchService$0(FMLServerLaunchProvider.java:51) ~[ftbserver.jar:32.0]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:37) [modlauncher-6.1.1.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:54) [modlauncher-6.1.1.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:72) [modlauncher-6.1.1.jar:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:81) [modlauncher-6.1.1.jar:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:65) [modlauncher-6.1.1.jar:?]
+	at net.minecraftforge.server.ServerMain$Runner.runLauncher(ServerMain.java:63) [ftbserver.jar:?]
+	at net.minecraftforge.server.ServerMain$Runner.access$100(ServerMain.java:60) [ftbserver.jar:?]
+	at net.minecraftforge.server.ServerMain.main(ServerMain.java:57) [ftbserver.jar:?]
